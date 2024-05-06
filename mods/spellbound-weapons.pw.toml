@@ -1,0 +1,13 @@
+name = "Spellbound Weapons"
+filename = "spellbound-weapons-v4.0.5m.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/egyqODDj/versions/nxtkgmc5/spellbound-weapons-v4.0.5m.jar"
+hash-format = "sha1"
+hash = "fcf3886d1ccb60097c9b541dcd50b93e7577985f"
+
+[update]
+[update.modrinth]
+mod-id = "egyqODDj"
+version = "nxtkgmc5"

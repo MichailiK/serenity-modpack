@@ -1,0 +1,13 @@
+name = "Effortless Structure"
+filename = "effortless-1.20.1-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EF68hjiy/versions/G6piIIMv/effortless-1.20.1-2.4.1.jar"
+hash-format = "sha1"
+hash = "c914e5e035f04dff53d9632d2b3511c0cd3aefde"
+
+[update]
+[update.modrinth]
+mod-id = "EF68hjiy"
+version = "G6piIIMv"
