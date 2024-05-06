@@ -9,6 +9,7 @@ A modpack for a private SMP, making use of
 
 | Mod | Summary |
 |-----|---------|
+| [Create Fabric](https://modrinth.com/mod/create-fabric) | See [this YouTube video](https://www.youtube.com/watch?v=rR8W-f9YhYA) |
 
 ### Utility mods
 
@@ -16,3 +17,11 @@ A modpack for a private SMP, making use of
 |-----|---------|
 
 ### Optimization mods
+
+
+### Libraries/Dependencies
+
+| Mod | Summary/Required by |
+|-----|---------------------|
+| [Fabric API](https://modrinth.com/mod/fabric-api) | Dependent by nearly every mod |
+
