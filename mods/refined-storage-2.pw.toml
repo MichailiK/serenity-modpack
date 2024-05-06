@@ -1,7 +1,7 @@
 name = "Refined Storage 2"
-filename = "refinedstorage2-platform-fabric-2.0.0-milestone.3.5.jar"
+filename = "refinedstorage2-platform-fabric-2.0.0-milestone.3.2.jar"
 
 [download]
-url = "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.5/refinedstorage2-platform-fabric-2.0.0-milestone.3.5.jar"
+url = "https://github.com/refinedmods/refinedstorage2/releases/download/v2.0.0-milestone.3.2/refinedstorage2-platform-fabric-2.0.0-milestone.3.2.jar"
 hash-format = "sha256"
-hash = "1b641c4d9a7c6d9e1f9f465ea63c22c8893c3dfa291bb0c3e8e02f65ef2314f4"
+hash = "87d19f9c1c44601f4c5d5bb49e2efd359268be10fab0c4021e81ac28777eb48d"
