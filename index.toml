@@ -9,3 +9,8 @@ metafile = true
 file = "mods/fabric-api.pw.toml"
 hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
 metafile = true
+
+[[files]]
+file = "mods/refined-storage-2.pw.toml"
+hash = "2522705972b96e477e173e645e99f8cf4e4252abfea04e8bd5a43f79f2f902ef"
+metafile = true
