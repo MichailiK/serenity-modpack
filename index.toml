@@ -371,6 +371,11 @@ hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+metafile = true
+
+[[files]]
 file = "mods/infinite-trading.pw.toml"
 hash = "7d548d9dee827ac7239a855f109cdbb774a0cc87715a2aa19ddd299870477b85"
 metafile = true
