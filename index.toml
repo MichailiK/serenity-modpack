@@ -219,6 +219,10 @@ hash = "e2a5dba48a7a2c809a2d3b0fa4ae5d3664d559415fb843e09111f2bc4e068304"
 metafile = true
 
 [[files]]
+file = "mods/create_interactive-1201-fabric-1.0.2-beta.2.jar"
+hash = "a7bcded07d4bb127013975f664dd779f4f7cc63e4cdecb9492a7f1337a57e0e4"
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
 metafile = true
@@ -371,11 +375,6 @@ metafile = true
 [[files]]
 file = "mods/infinite-trading.pw.toml"
 hash = "7d548d9dee827ac7239a855f109cdbb774a0cc87715a2aa19ddd299870477b85"
-metafile = true
-
-[[files]]
-file = "mods/interactive.pw.toml"
-hash = "8941f7f37769c5832c198727a7ad2a92a9ddfc3fa97ddb544f49ee450eaeaeed"
 metafile = true
 
 [[files]]
