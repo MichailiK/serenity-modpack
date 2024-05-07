@@ -6,6 +6,10 @@ hash = "bc4677b5d9ff2bca2d8e031faf781a10bc578b95cdb709527b8eb85d79e4daae"
 metafile = true
 
 [[files]]
+file = "mods/DistantHorizons-2.0.4-a-dev-1.20.1.jar"
+hash = "48e40e0b19b475d7a2980c6842c225bea189d84a106a7d07f318dd65dbcbf204"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true
@@ -384,6 +388,10 @@ metafile = true
 file = "mods/interiors.pw.toml"
 hash = "957fccf5d7bb580339b0ac2b8de2986415ef83fe297963e888e97d2063afefc3"
 metafile = true
+
+[[files]]
+file = "mods/iris-flywheel-compat-1.20.1-0.2.4.jar"
+hash = "c681fc5343fa61eb8af656c75bb705259698ddfe374fd72cb92c15dee7947150"
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
