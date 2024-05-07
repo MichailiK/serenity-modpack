@@ -1,0 +1,8 @@
+name = "Iris Flywheel Compat"
+filename = "iris-flywheel-compat-1.20.1-0.2.4.jar"
+side = "client"
+
+[download]
+url = "https://github.com/MichailiK/serenity-assets/raw/e790e2dc20a908285c62f97553b9c5970a399ca1/iris-flywheel-compat-1.20.1-0.2.4.jar"
+hash-format = "sha256"
+hash = "c681fc5343fa61eb8af656c75bb705259698ddfe374fd72cb92c15dee7947150"

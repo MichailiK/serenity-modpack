@@ -1,0 +1,8 @@
+name = "Create Interactive"
+filename = "create_interactive-1201-fabric-1.0.2-beta.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/MichailiK/serenity-assets/raw/e790e2dc20a908285c62f97553b9c5970a399ca1/create_interactive-1201-fabric-1.0.2-beta.2.jar"
+hash-format = "sha256"
+hash = "a7bcded07d4bb127013975f664dd779f4f7cc63e4cdecb9492a7f1337a57e0e4"

@@ -14,10 +14,6 @@ hash = "bc4677b5d9ff2bca2d8e031faf781a10bc578b95cdb709527b8eb85d79e4daae"
 metafile = true
 
 [[files]]
-file = "mods/DistantHorizons-2.0.4-a-dev-1.20.1.jar"
-hash = "48e40e0b19b475d7a2980c6842c225bea189d84a106a7d07f318dd65dbcbf204"
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
 metafile = true
@@ -163,8 +159,9 @@ hash = "afa6eaa0dba8f23b7094929a38d9402863396064fc850cb847ea56375262dc47"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components-api-5.2.2.jar"
-hash = "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1"
+file = "mods/cardinal-components-api.pw.toml"
+hash = "cab526990017ba71c177eb888beaaa7d49d58b6ecdb827f7d3cf98178033a442"
+metafile = true
 
 [[files]]
 file = "mods/cave-dweller-evolved-(fabric).pw.toml"
@@ -242,6 +239,11 @@ hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
+file = "mods/create-interactive.pw.toml"
+hash = "9bfc84e0c2b38fd896098029f2d67f1ff021ee7f0842231ed53bde0b4c99792d"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader-fabric.pw.toml"
 hash = "70fba7c03aa74167b98cbd4ca7f2ff416a821e74bdb94543fd63f653a2ad6ce7"
 metafile = true
@@ -250,10 +252,6 @@ metafile = true
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "e2a5dba48a7a2c809a2d3b0fa4ae5d3664d559415fb843e09111f2bc4e068304"
 metafile = true
-
-[[files]]
-file = "mods/create_interactive-1201-fabric-1.0.2-beta.2.jar"
-hash = "a7bcded07d4bb127013975f664dd779f4f7cc63e4cdecb9492a7f1337a57e0e4"
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
@@ -288,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "357839f0d59b5c444de9021ecb615083d3fa4079364336ec24c018c3e2c05d58"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "29e2b9446d26e91eed88fde98924ea9ea6b327aa75dd425524dbafe04dbeddc2"
 metafile = true
 
 [[files]]
@@ -416,8 +419,9 @@ hash = "957fccf5d7bb580339b0ac2b8de2986415ef83fe297963e888e97d2063afefc3"
 metafile = true
 
 [[files]]
-file = "mods/iris-flywheel-compat-1.20.1-0.2.4.jar"
-hash = "c681fc5343fa61eb8af656c75bb705259698ddfe374fd72cb92c15dee7947150"
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "0ff516727a2bccc1c4c76dbf4cabaa1ff09dc998a22a8834e14a9940fb6f5c41"
+metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"

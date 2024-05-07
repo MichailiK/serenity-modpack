@@ -1,0 +1,8 @@
+name = "Cardinal Components API"
+filename = "cardinal-components-api-5.2.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/MichailiK/serenity-assets/raw/e790e2dc20a908285c62f97553b9c5970a399ca1/cardinal-components-api-5.2.2.jar"
+hash-format = "sha256"
+hash = "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1"
