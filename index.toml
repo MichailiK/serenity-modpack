@@ -496,6 +496,11 @@ hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
+metafile = true
+
+[[files]]
 file = "mods/move-boats.pw.toml"
 hash = "477f9faf0cfaa9869f9340f861afcddfb18cca118cc1b50df14836b6ddc1b2b8"
 metafile = true
