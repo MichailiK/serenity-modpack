@@ -145,9 +145,8 @@ hash = "afa6eaa0dba8f23b7094929a38d9402863396064fc850cb847ea56375262dc47"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components-api.pw.toml"
-hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
-metafile = true
+file = "mods/cardinal-components-api-5.2.2.jar"
+hash = "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1"
 
 [[files]]
 file = "mods/cave-dweller-evolved-(fabric).pw.toml"
