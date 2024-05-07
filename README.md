@@ -1,6 +1,6 @@
 # Serenity Modpack
 
-A modpack for a private SMP, making use of
+A Minecraft 1.20.1 Fabric modpack for the private Serenity SMP, making use of
 [packwiz](https://github.com/packwiz/packwiz) for maintaining the modpack.
 
 ## Mod List
