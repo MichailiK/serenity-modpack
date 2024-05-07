@@ -194,6 +194,16 @@ hash = "92fb149b9a3b60a154b9bd1653229985cfe820bd4695ab960ba7a78940613342"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "2f7b4303cff064f30e17cfce29235ac4231bcab38d11627c73e59fbde663c6e1"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
@@ -288,6 +298,11 @@ hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "a8d3244d58d7722735a72eee2a869d15e5fe38ec7d9a54ff555aadd53cae637c"
 metafile = true
@@ -338,11 +353,6 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
-metafile = true
-
-[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
 metafile = true
@@ -389,6 +399,21 @@ hash = "c681fc5343fa61eb8af656c75bb705259698ddfe374fd72cb92c15dee7947150"
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "36239f4c9522551f995919bef9b18bba61940319e44af88bdfa28b2e249dc86c"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
 metafile = true
 
 [[files]]
@@ -562,6 +587,11 @@ hash = "8d1c69e2c817e1f6fabe2629a856b62b552c0df551598e1fd65ced36f6bd1854"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "a0be9ec4f1c38f0f69c212aa12577233daadc81e453fcad0bef4ae5829023cdb"
 metafile = true
@@ -569,11 +599,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "9700f0ca4603cd6e6c214da7939fc8052ea750cad5ab2e4fc182bdd85057a6e8"
-metafile = true
-
-[[files]]
-file = "mods/slayers-beasts.pw.toml"
-hash = "d1e342f26279bc39afafcecd677fd3b8fbdbb53b5576732125d2a26906c4e1c9"
 metafile = true
 
 [[files]]
@@ -664,6 +689,11 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "766afea666dd1c0e9ef57e249aad8989420534259f01af7f8f9314839c6ddb59"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "0b0cf6c40116a1e06e0ebbff503f88f9587a8f09f2dd355f974eb52ce0927acc"
 metafile = true
 
 [[files]]
