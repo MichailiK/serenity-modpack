@@ -100,6 +100,18 @@ mods are listed at the top.
 This section is used to note any remarks or outstanding issues with this modpack
 and its development.
 
+### Creating a MultiMC instance out of the modpack
+
+The steps are nearly identical as to
+[packwiz's guide](https://packwiz.infra.link/tutorials/installing/packwiz-installer/#creating-a-multimc-instance-for-your-modpack),
+the only difference is, before exporting the instance as a zip, copy everything
+from the `profile_defaults` directory in this repository to the instance.
+The folder contains some (config) files with sane defaults.
+
+This approach allows us to provide users with sane default settings, without
+packwiz indexing/tracking & overwriting these files, allowing users to change
+them as they wish.
+
 ### External mods
 
 Some mods had to be retrieved outside of Modrinth or Curseforge, and can thus
