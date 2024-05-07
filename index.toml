@@ -388,11 +388,6 @@ file = "mods/iris-flywheel-compat-1.20.1-0.2.4.jar"
 hash = "c681fc5343fa61eb8af656c75bb705259698ddfe374fd72cb92c15dee7947150"
 
 [[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "15a80e149cbca12d611b0a638159e473b9a32c1c7900ebc22463af02ec6f0bb3"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
