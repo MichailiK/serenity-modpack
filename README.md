@@ -97,7 +97,7 @@ mods are listed at the top.
 
 ## Modpack Developer Notes
 
-Thsi section is used to note any remarks or outstanding issues with this modpack
+This section is used to note any remarks or outstanding issues with this modpack
 and its development.
 
 ### External mods
