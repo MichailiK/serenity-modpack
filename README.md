@@ -93,3 +93,28 @@ mods are listed at the top.
 | [Moonlight](https://modrinth.com/mod/moonlight) | |
 | [Kambrik](https://modrinth.com/mod/kambrik) | |
 | [Geckolib](https://modrinth.com/mod/geckolib) | 3D animation engine |
+
+
+## Modpack Developer Notes
+
+Thsi section is used to note any remarks or outstanding issues with this modpack
+and its development.
+
+### External mods
+
+Some mods had to be retrieved outside of Modrinth or Curseforge, and can thus
+not auto-update:
+
+- [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api):
+  This mod is marked as "Unsupported" on the Client side. This seems to be unintentional
+  and should've been marked as "Optional" instead, because this results in the
+  mod not being added to clients by packwiz, even though client mods depend
+  on it.
+- [Create: Interactive](https://modrinth.com/mod/interactive): Uses a patched
+  version to work with Sodium. See also
+  [Issue](https://github.com/ValkyrienSkies/Create-Interactive-Issues/issues/73).
+- [Distant Horizons](https://modrinth.com/mod/distanthorizons): Uses
+  [this nightly build](https://gitlab.com/jeseibel/distant-horizons/-/jobs/artifacts/main/download?job=build:%20[1.20.1])
+  which is compatible with Iris.
+- [Iris Flywheel Compat](https://modrinth.com/mod/iris-flw-compat): Uses
+  a patched build which works with Iris 1.7.
