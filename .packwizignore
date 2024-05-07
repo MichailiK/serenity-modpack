@@ -1,3 +1,6 @@
-/README.md
 /.git*
+/README.md
+/LICENSE
 /CNAME
+/profile_defaults
+/*.mrpack

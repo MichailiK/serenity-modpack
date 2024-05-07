@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/HorseBuff.toml"
+hash = "d291bcee1165c4f61ad06970e7682c182272265d593c9db4d63bd8cd3be7678f"
+
+[[files]]
+file = "config/craftpresence.json"
+hash = "896868215ff8dd3906a03305789f85c939833a360c43e6f0d468ce577df145e4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "bc4677b5d9ff2bca2d8e031faf781a10bc578b95cdb709527b8eb85d79e4daae"
 metafile = true
