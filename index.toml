@@ -274,11 +274,6 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
-file = "mods/deeper-oceans.pw.toml"
-hash = "ffeca7f1daabe2d0296fde7b76f502a4cbb6476859c5e14b57194ec75fcbdb3a"
-metafile = true
-
-[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "2c1625c08620d5724eda682498afd20e344cbf2fe2b1f486edc2481c530864bf"
 metafile = true
