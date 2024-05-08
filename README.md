@@ -130,3 +130,6 @@ not auto-update:
   which is compatible with Iris.
 - [Iris Flywheel Compat](https://modrinth.com/mod/iris-flw-compat): Uses
   a patched build which works with Iris 1.7.
+- Valkyrien Skies: Massive MSPT spikes caused by a mixin, the patched version
+  just removes the problematic mixin from the mixins.json file. See also
+  [issue](https://github.com/ValkyrienSkies/Valkyrien-Skies-2/issues/806)
