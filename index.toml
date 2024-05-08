@@ -59,6 +59,11 @@ hash = "a80efaf7fd13e0035e4f8f90fba65fdf7e3cfaf3cf399d280f3d9962b7d53317"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "f2820df0f5b9cb37572d70be4aa7042ea68f4bc543a36a7342b9d54e9a6d7378"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
 metafile = true
@@ -474,6 +479,11 @@ hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "87a313a3e048b2dffb8d501e4cb4afd275f263d8b0fbcdeb6f55d7d0efbdef8f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -486,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "aca145c5044f2ad8829d0b1ac60f9850ee2d6e1e890ead07f59e94a721b46d55"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "e5deb9d89c0a8c0060d2a5eb99d5ad0898262a080922aa7f44983a829949e0b2"
 metafile = true
 
 [[files]]
