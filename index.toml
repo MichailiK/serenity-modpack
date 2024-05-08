@@ -439,16 +439,6 @@ hash = "36239f4c9522551f995919bef9b18bba61940319e44af88bdfa28b2e249dc86c"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
-metafile = true
-
-[[files]]
 file = "mods/just-mob-heads.pw.toml"
 hash = "b28ab5294460ce17d7f78712aa191512ea834625e5a4fda7953e3c2571427535"
 metafile = true
