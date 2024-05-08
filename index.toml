@@ -364,6 +364,11 @@ hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "43bac483575525b681d12e43e99e86926640a595356ea7e8f030a179be1c3714"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
 metafile = true
@@ -454,6 +459,11 @@ hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -486,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "aca145c5044f2ad8829d0b1ac60f9850ee2d6e1e890ead07f59e94a721b46d55"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
