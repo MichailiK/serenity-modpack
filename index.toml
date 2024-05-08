@@ -599,11 +599,6 @@ hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "e96bb13c530a62100ad228f1c59f0fc37ceb91ec3e622a0a5d0e32cbe5d95424"
-metafile = true
-
-[[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
 hash = "8d1c69e2c817e1f6fabe2629a856b62b552c0df551598e1fd65ced36f6bd1854"
 metafile = true
