@@ -31,11 +31,6 @@ them as they wish.
 Some mods had to be retrieved outside of Modrinth or Curseforge, and can thus
 not auto-update:
 
-- [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api):
-  This mod is marked as "Unsupported" on the Client side. This seems to be unintentional
-  and should've been marked as "Optional" instead, because this results in the
-  mod not being added to clients by packwiz, even though client mods depend
-  on it.
 - [Create: Interactive](https://modrinth.com/mod/interactive): Uses a patched
   version to work with Sodium. See also
   [Issue](https://github.com/ValkyrienSkies/Create-Interactive-Issues/issues/73).
