@@ -1,0 +1,13 @@
+name = "Cell (Vanilla+)"
+filename = "Cell-Fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aLg3EvUx/versions/Akdizmph/Cell-Fabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "814df36dea9f7fb8b567a85bb5a815dc20b849b9"
+
+[update]
+[update.modrinth]
+mod-id = "aLg3EvUx"
+version = "Akdizmph"
