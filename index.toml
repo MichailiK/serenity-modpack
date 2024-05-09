@@ -458,11 +458,6 @@ hash = "c0a025f5c46533dc1dbd125f36e6ba6a3c761e91ace0c39e044e71afcfc7e73a"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "43bac483575525b681d12e43e99e86926640a595356ea7e8f030a179be1c3714"
-metafile = true
-
-[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
 metafile = true
