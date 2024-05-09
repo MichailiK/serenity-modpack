@@ -26,7 +26,7 @@ for filename in os.listdir(mods_directory):
 with open(os.path.join(script_directory, "./index.md"), "w", encoding='utf-8') as markdown_file:
     markdown_file.write(
 """
-# Mod Lists
+# Mod List
 
 The list of all mods present in the modpack.
 

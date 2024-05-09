@@ -1,5 +1,5 @@
 
-# Mod Lists
+# Mod List
 
 The list of all mods present in the modpack.
 
