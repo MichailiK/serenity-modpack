@@ -10,7 +10,7 @@ hash = "896868215ff8dd3906a03305789f85c939833a360c43e6f0d468ce577df145e4"
 
 [[files]]
 file = "config/effortless.toml"
-hash = "f8624ca3a8bc26ea59471145050dd8b59940401891930bcf092258180bc0a363"
+hash = "a09f43c8fefda103aec4488ae7e20d1c2c11975ae5b8ad97ff8efd8bf7919574"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
