@@ -23,7 +23,7 @@ for filename in os.listdir(mods_directory):
         mods_info.append((mod_name, mod_id))
 
 # Generate markdown and write to file
-with open(os.path.join(script_directory, "./index.md"), "w", encoding='utf-8') as markdown_file:
+with open(os.path.join(script_directory, "./index.md"), "w", encoding='utf-8', newline='\n') as markdown_file:
     markdown_file.write(
 """
 # Mod List
