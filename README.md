@@ -42,3 +42,6 @@ not auto-update:
 - Valkyrien Skies: Massive MSPT spikes caused by a mixin, the patched version
   just removes the problematic mixin from the mixins.json file. See also
   [issue](https://github.com/ValkyrienSkies/Valkyrien-Skies-2/issues/806)
+- [Refined Storage 2](https://github.com/refinedmods/refinedstorage2):
+  Refined Storage 1 is on Modrinth, but not Refined Storage 2. RS2 is only
+  distributed through GitHub.
