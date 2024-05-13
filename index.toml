@@ -973,11 +973,6 @@ hash = "0b0cf6c40116a1e06e0ebbff503f88f9587a8f09f2dd355f974eb52ce0927acc"
 metafile = true
 
 [[files]]
-file = "mods/wilder-wild.pw.toml"
-hash = "68bcd6d7fbc220121071abea63d28b5697887ef69591b582d15e3c70ee9fa0f3"
-metafile = true
-
-[[files]]
 file = "mods/wwoo.pw.toml"
 hash = "28df223dfb6b7f35f71487224bbb630fe6db6f03a3a357bf2f15a3fafb98dd63"
 metafile = true
