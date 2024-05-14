@@ -893,11 +893,6 @@ hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
 metafile = true
 
 [[files]]
-file = "mods/the-graveyard-fabric.pw.toml"
-hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
-metafile = true
-
-[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
