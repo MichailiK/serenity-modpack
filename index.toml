@@ -5,6 +5,10 @@ file = "config/HorseBuff.toml"
 hash = "d291bcee1165c4f61ad06970e7682c182272265d593c9db4d63bd8cd3be7678f"
 
 [[files]]
+file = "config/advanced-ui-scale.json"
+hash = "8762f19d0ef48207f5af4bd54e40dfeeb2d822b81e9ab8030465223adae678fe"
+
+[[files]]
 file = "config/craftpresence.json"
 hash = "896868215ff8dd3906a03305789f85c939833a360c43e6f0d468ce577df145e4"
 
