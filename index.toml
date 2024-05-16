@@ -948,11 +948,6 @@ hash = "007f7e8dd2243ce95c2306ecbc5f2b230fd8388035e0bce10c9879de81d3dc28"
 metafile = true
 
 [[files]]
-file = "mods/warden-tools.pw.toml"
-hash = "2b515de9dfe739716c78a373c046c6cabc8eebab55968ac1ada93ed660f53694"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
 hash = "72ef835bcebdf1810dde617b62ef5ce0e30e2a7cf29ec896c6f675e36b9856a7"
 metafile = true
