@@ -3,13 +3,13 @@
 ## 1. Installing Java 17
 
 1. Go to the [Oracle Java website](https://www.oracle.com/java/technologies/downloads/#jdk21)
-   and pick Java 21
+   and pick Java 21\
    ![Screenshot of the Oracle website, highlighting the Java 21 navigation item](./oracle_java21.png)
 
-2. Pick your operating system (Windows, macOS, or Linux):
+2. Pick your operating system (Windows, macOS, or Linux):\
    ![Screenshot of the Oracle website, highlighting the OS navigation items](./oracle_java21_os.png)
 
-3. Download the installer and run it:
+3. Download the installer and run it:\
    ![Screenshot of the Oracle website, highlighting the download button](./oracle_java21_download.png)
 
 
@@ -18,18 +18,18 @@
 ### Downloading the Launcher
 
 1. Go to the [Prism Launcher website](https://prismlauncher.org/) and hit the
-   download button:
+   download button:\
    ![Screenshot of the Prism Launcher website, highlighting the download button](./prism_download_button.png)
 
 2. Download the installer and follow its instructions.
 
 ### Logging into your Minecraft account
 
-1. Click on the Minecraft Skin icon on the top right, and hit "Manage Accounts"
+1. Click on the Minecraft Skin icon on the top right, and hit "Manage Accounts"\
   ![Screenshot of the Prism Launcher](./prism_manage_accounts.png)
 
 2. Hit "Add Microsoft" and follow the instructions to log in with your
-   Microsoft account.
+   Microsoft account.\
   ![Screenshot of the Prism Launcher](./prism_add_account.png)
 
 ## 3. Installing the Modpack
@@ -43,12 +43,12 @@
 
 ### Setting Java version
 
-1. Right click the modpack and hit "Edit..."
+1. Right click the modpack and hit "Edit..."\
    ![Screenshot of Prism Launcher, with the Edit button in the context menu highlighted](./prism_instance_edit.png)
 2. Go to Settings, tick the "Java installation" box, and press the
-   Auto-detect button.
+   Auto-detect button.\
    ![Screenshot of the Prism Launcher instance settings](./prism_instance_settings.png)
-3. Pick a Java version that is 17, and hit OK.
+3. Pick a Java version that is 17, and hit OK.\
   ![Screenshot of the Java version screen from Prism Launcher](./prism_instance_java_version.png)
 
 You're now good to go! Close the settings, then double-click the modpack 
