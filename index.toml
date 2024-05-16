@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "29e2b9446d26e91eed88fde98924ea9ea6b327aa75dd425524dbafe04dbeddc2"
+hash = "584c92559770dc7b95b8284c5f0c29412872c325638229845a4df9cd88afb175"
 metafile = true
 
 [[files]]
@@ -893,11 +893,6 @@ hash = "ae0b30c99b62ec09615864f614df5449c19c02d21c6a64cec554263202bf8112"
 metafile = true
 
 [[files]]
-file = "mods/the-graveyard-fabric.pw.toml"
-hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
-metafile = true
-
-[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
@@ -950,11 +945,6 @@ metafile = true
 [[files]]
 file = "mods/victus.pw.toml"
 hash = "007f7e8dd2243ce95c2306ecbc5f2b230fd8388035e0bce10c9879de81d3dc28"
-metafile = true
-
-[[files]]
-file = "mods/warden-tools.pw.toml"
-hash = "2b515de9dfe739716c78a373c046c6cabc8eebab55968ac1ada93ed660f53694"
 metafile = true
 
 [[files]]
