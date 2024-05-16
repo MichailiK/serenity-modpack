@@ -733,7 +733,7 @@ metafile = true
 
 [[files]]
 file = "mods/nevermore.pw.toml"
-hash = "a4ac05ba3b0eff327fc4fff1a07a84516a995c7820d3a9e8854912157b2e9925"
+hash = "ba5480d452c3e61d4d6b13835168ceb896825c9d53b4ab2c6350cf8660871ae5"
 metafile = true
 
 [[files]]
