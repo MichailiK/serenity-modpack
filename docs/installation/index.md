@@ -4,10 +4,10 @@
 
 1. Go to the [Oracle Java website](https://www.oracle.com/java/technologies/downloads/#jdk21)
    and pick Java 21\
-   ![Screenshot of the Oracle website, highlighting the Java 21 navigation item](./oracle_java21.png)
+   <img src="./oracle_java21.png" width="300" alt="Screenshot of the Oracle website, highlighting the Java 21 navigation item">
 
 2. Pick your operating system (Windows, macOS, or Linux):\
-   ![Screenshot of the Oracle website, highlighting the OS navigation items](./oracle_java21_os.png)
+   <img src="./oracle_java21_os.png" width="300" alt="Screenshot of the Oracle website, highlighting the OS navigation items">
 
 3. Download the installer and run it:\
    ![Screenshot of the Oracle website, highlighting the download button](./oracle_java21_download.png)
@@ -25,7 +25,8 @@
 
 ### Logging into your Minecraft account
 
-1. Click on the Minecraft Skin icon on the top right, and hit "Manage Accounts"\
+1. Open the Prism Launcher, click on the Minecraft Skin icon on the top right,
+   and hit "Manage Accounts"\
   ![Screenshot of the Prism Launcher](./prism_manage_accounts.png)
 
 2. Hit "Add Microsoft" and follow the instructions to log in with your
