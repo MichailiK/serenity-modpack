@@ -5,7 +5,8 @@ A Minecraft 1.20.1 Fabric modpack for the private Serenity SMP, making use of
 
 ## Documentation
 
-- [Mod Introductions](/docs/mod_introductions/) (Start here!)
+- [Installation](/docs/installation/)
+- [Mod Introductions](/docs/mod_introductions/) (Unfinished)
 - [Mod List](/docs/mod_list/)
 
 
