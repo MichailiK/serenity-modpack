@@ -1,5 +1,6 @@
 name = "Distant Horizons"
 filename = "DistantHorizons-2.1.0-a-RC1-1.20.1.jar"
+side = "client"
 
 [download]
 url = "https://github.com/MichailiK/serenity-assets/raw/master/DistantHorizons-2.1.0-a-RC1-1.20.1.jar"
