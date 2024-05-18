@@ -782,6 +782,11 @@ hash = "993380cf705a99319f426d7c43f92ef6076adf2bfdbcd53a065b7d6dea4a565c"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "5f90796765960f0fd2983895ceb3f345bd723ff826d24b4f291fa6256f4ce002"
+metafile = true
+
+[[files]]
 file = "mods/promenade.pw.toml"
 hash = "4edb1d260abf93b2e69b319a44f2cbf26785850669dc28424bd678207c72f764"
 metafile = true
