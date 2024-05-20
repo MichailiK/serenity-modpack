@@ -147,11 +147,6 @@ hash = "2a2c7b00cfe1337318d55a4b8864dc14f6fc34c6d25825c3a23af983fe8abc89"
 metafile = true
 
 [[files]]
-file = "mods/bigger-sponge-absorption-radius.pw.toml"
-hash = "b9e5c6454e4cd750ac5f15abf871f1448bc7b0de7a661d4a1952ae4085e36bd7"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "9022ec899edf2af44a13d5d715b10661f394672306e3cff5b29bdd7452c783f7"
 metafile = true
