@@ -207,6 +207,16 @@ hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
+metafile = true
+
+[[files]]
 file = "mods/cave-dweller-evolved-(fabric).pw.toml"
 hash = "ac93b05d8dad3537436c4ac2adcc6be8edfedd52cb09c1a36a37f784888ef8e6"
 metafile = true
