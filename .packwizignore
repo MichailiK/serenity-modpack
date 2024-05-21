@@ -5,3 +5,8 @@
 /profile_defaults
 /*.mrpack
 /docs
+/flake.nix
+/flake.lock
+/.direnv/
+/.envrc
+
