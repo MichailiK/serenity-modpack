@@ -1,7 +1,0 @@
-name = "Nevermore"
-filename = "nevermore-0.1.0.jar"
-
-[download]
-url = "https://github.com/MichailiK/serenity-assets/raw/d0ae522f5d423c124f2e27d92c90354db45bfc45/nevermore-0.1.0.jar"
-hash-format = "sha256"
-hash = "4ce93b4c8ba0a445ffcb75d346f1e4aa1cb1f7282414a4325ecb63e51228d16d"

@@ -737,11 +737,6 @@ hash = "81ca1dc2a4d7bdc8a30d74ca8530445fd0eeddce476d41b5765ec4478a30cf98"
 metafile = true
 
 [[files]]
-file = "mods/nevermore.pw.toml"
-hash = "ba5480d452c3e61d4d6b13835168ceb896825c9d53b4ab2c6350cf8660871ae5"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
