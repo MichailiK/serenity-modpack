@@ -887,11 +887,6 @@ hash = "60b06c8d72bd8930b32e2311f6ed9ef815f3822847281fa1e9a949fbe072bef5"
 metafile = true
 
 [[files]]
-file = "mods/stellarity.pw.toml"
-hash = "fe8022c85a493055438172cdca2945f8bbc36d9d39a247df00e0670c7aaab585"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
 metafile = true
