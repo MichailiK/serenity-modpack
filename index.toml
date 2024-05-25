@@ -942,11 +942,6 @@ hash = "98c17153532f05eaa85b465291c633c5c6330d62d366807404c15f3eb4876d5d"
 metafile = true
 
 [[files]]
-file = "mods/ultris.pw.toml"
-hash = "fbae272c03e36e382e39939f410fd5b9ae771a7b6f956890512f71c5a6a2d159"
-metafile = true
-
-[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
 metafile = true
