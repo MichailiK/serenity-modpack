@@ -102,6 +102,11 @@ hash = "0c8a04c0f673823249c2d0f6894184d474318682a9ec4957e0d216dcef467265"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "cd9782ab1684fb02954cf440b429b747493f9e3b8e4a954fafbafe908f63a818"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "4d0204a242a833181149b80a4b4815832a5a86866c8d8302a0354b57fca21c23"
 metafile = true
