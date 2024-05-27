@@ -1,13 +1,7 @@
 name = "Zenith"
 filename = "zenith-1.1.9-1.20.1.jar"
-side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TLZe11Uj/versions/n59fTpXn/zenith-1.1.9-1.20.1.jar"
-hash-format = "sha1"
-hash = "04e3bc4967cc421d9bab155ce0b05294a694f1f8"
-
-[update]
-[update.modrinth]
-mod-id = "TLZe11Uj"
-version = "n59fTpXn"
+url = "https://github.com/MichailiK/serenity-assets/raw/master/zenith-1.1.9-1.20.1.jar"
+hash-format = "sha256"
+hash = "d6652ed6ddc32b5a206b150f11bf4ad3e4bd837818e88ed13935fa3da5882d73"

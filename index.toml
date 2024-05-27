@@ -342,6 +342,11 @@ hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
+file = "mods/dcimiaata.pw.toml"
+hash = "ed4d03f7ad5a58697ab67ce20ac8ba596e633610a76c5e363df5a10e090e59f5"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -1058,5 +1063,5 @@ metafile = true
 
 [[files]]
 file = "mods/zenith.pw.toml"
-hash = "0402a81616c67538a3e87af57a6c37a0a4b129e307c1c5a2501d17aacf05e900"
+hash = "bcd555e957b2ef17c78d0331fa1b4c7df54f797d8c4ea4399664381fd8e9a70a"
 metafile = true
