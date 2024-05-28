@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcimiaata.pw.toml"
-hash = "4c5e0e2432912c6f5bd04b5584e6b26046964e1e8231937ff51ecfa4d3b69f2e"
+hash = "c6b323c4a975bacaeac8662a5040333692ee5f1bd5d8be9ef57f6600533b0b22"
 metafile = true
 
 [[files]]
