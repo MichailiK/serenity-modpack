@@ -927,6 +927,11 @@ hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
+file = "mods/transmog.pw.toml"
+hash = "7c8f173a16772592b689fe4c9f453d48640f4deabb882ce11e7fe27f3ab28628"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "c8b62279ce25dc287020134e4e3438d3a06fec88aacd402db2d893efae7182c2"
 metafile = true
