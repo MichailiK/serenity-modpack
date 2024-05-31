@@ -762,6 +762,11 @@ hash = "11d7d7dac686582ef0fd37ff3fb19334c3c39625c2f7d8050e5133b492136453"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "95512ed1baa3ede3af0b614006ea4416804f60ecc2bb7fb07cd379c96946c485"
 metafile = true
