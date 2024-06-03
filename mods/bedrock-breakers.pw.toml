@@ -1,0 +1,13 @@
+name = "Bedrock Breakers [Fabric | Forge]"
+filename = "bedrockbreakers-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3be63af2015f5685c26bf658405443d9c17d078d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5072466
+project-id = 659194

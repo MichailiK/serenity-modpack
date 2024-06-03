@@ -1,0 +1,13 @@
+name = "Big Beautiful Buttons"
+filename = "BigBeautifulButtons-fabric-1.20.1-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6081f861c7008800796a86eed392fd16c6f7b059"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4628198
+project-id = 275547

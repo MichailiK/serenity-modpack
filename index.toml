@@ -47,6 +47,11 @@ hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "505f89da0af64879da1886bc0eb282ee13a4ae032aaa61a899a4a0a83f15dd6e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -94,6 +99,16 @@ metafile = true
 [[files]]
 file = "mods/bclib.pw.toml"
 hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
+file = "mods/bedrock-breakers.pw.toml"
+hash = "9045eb0370c1ee72ee2d1429491e29f677d8e4e339b5e1ada45043097659de65"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "eb0d74103b07e202b36d7e7e0957afc054d9622acf8ecb738e5856b5144a7b3b"
 metafile = true
 
 [[files]]
@@ -152,6 +167,11 @@ hash = "2a2c7b00cfe1337318d55a4b8864dc14f6fc34c6d25825c3a23af983fe8abc89"
 metafile = true
 
 [[files]]
+file = "mods/big-beautiful-buttons.pw.toml"
+hash = "72157aab4fdcf2adbea521de5e061d7423c3810af2a33a6800844727c707100f"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "9022ec899edf2af44a13d5d715b10661f394672306e3cff5b29bdd7452c783f7"
 metafile = true
@@ -189,6 +209,11 @@ metafile = true
 [[files]]
 file = "mods/calcmod.pw.toml"
 hash = "635275e7ff042568ac2279602371e0da61eae9b07d7486b5b357f5f43d83caa9"
+metafile = true
+
+[[files]]
+file = "mods/calibrated.pw.toml"
+hash = "d4b95a7c533292451f3c8e415dea3a9157d0a94f59d61b56136f7e14e823bc61"
 metafile = true
 
 [[files]]
@@ -287,6 +312,11 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "ac9de04745c3dc2462fe095088220507ecb8602240a3f07950968418a08a660d"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "2f7b4303cff064f30e17cfce29235ac4231bcab38d11627c73e59fbde663c6e1"
 metafile = true
@@ -294,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "9da4df50bfb76af3199e70f4ed89ca42d175f851219b2f660b2f31b423bd9258"
 metafile = true
 
 [[files]]
@@ -314,6 +349,16 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "e2a5dba48a7a2c809a2d3b0fa4ae5d3664d559415fb843e09111f2bc4e068304"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory-forge-fabric.pw.toml"
+hash = "f401455e2363c32ba8087958efffa5252e8b0f210ebd2069ab34f797303d46ec"
+metafile = true
+
+[[files]]
+file = "mods/createutilities.pw.toml"
+hash = "74fdf87c69584fcf4af547dd4d34fd15061e06f69543d6b6fadf1948d87474de"
 metafile = true
 
 [[files]]
@@ -537,8 +582,23 @@ hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "cdc030a4636da8d8bd188de562c09cd10c7d33ebdde720ec276f5f66018ecaec"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "6afa8009ec93e4deec4e36fc341d768f62506abe6fbf10307c679fb87d16778e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "5674ffdd392cc6e96ab87ad50ecf861a8b7ceef573fbb12b0ea266f15b87b2c5"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "594134d837f6eeec1475b436713ddc56066bde03efdbcbc14d15498033592d17"
 metafile = true
 
 [[files]]
@@ -572,8 +632,18 @@ hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "e5bd4b34bc3b430920b3a73da52b4ab76e51c67d1e2f7c710f05b68047135c01"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "36239f4c9522551f995919bef9b18bba61940319e44af88bdfa28b2e249dc86c"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "e878f32f538088bd287eb104a95b98e219fbd950456cfc63811e0a95cb04ec2f"
 metafile = true
 
 [[files]]
@@ -702,6 +772,11 @@ hash = "c2e7c271a462b708f4427ee5f8d679413e2b4481a7af651b647b0678e64e3652"
 metafile = true
 
 [[files]]
+file = "mods/more-beautiful-buttons.pw.toml"
+hash = "1b0102db400423853f24dfa331869f127bcab3b0950331d78441006b3d711a87"
+metafile = true
+
+[[files]]
 file = "mods/more-slabs-and-stairs.pw.toml"
 hash = "6e37c89420ab8794b0653da1f0738cbf79ff4770e07469e4f2c9af787e54ccf3"
 metafile = true
@@ -749,6 +824,11 @@ metafile = true
 [[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
 hash = "81ca1dc2a4d7bdc8a30d74ca8530445fd0eeddce476d41b5765ec4478a30cf98"
+metafile = true
+
+[[files]]
+file = "mods/new-nether-chest.pw.toml"
+hash = "8754c304e88443a242f87255397a8a64c99881982fedd1db20267fcd5c7c5fe3"
 metafile = true
 
 [[files]]
@@ -804,6 +884,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "5f90796765960f0fd2983895ceb3f345bd723ff826d24b4f291fa6256f4ce002"
+metafile = true
+
+[[files]]
+file = "mods/portable-mobs.pw.toml"
+hash = "8e7805cefa10f30b004eed2c73239eee3dd7f374e96a4a09d44f6949317d9d60"
 metafile = true
 
 [[files]]
@@ -904,6 +989,11 @@ metafile = true
 [[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "60b06c8d72bd8930b32e2311f6ed9ef815f3822847281fa1e9a949fbe072bef5"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4a9b09e2702f231a4d9fe598d23c07f6587df61a67c3689f11c1a7b0c5bb146c"
 metafile = true
 
 [[files]]
