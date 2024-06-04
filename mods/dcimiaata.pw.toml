@@ -1,7 +1,7 @@
-name = "dcimiaata"
-filename = "dont-care-if-modifiers-is-already-applied-to-attribute-1.0.0.jar"
+name = "DCIMIAATA"
+filename = "dont-care-if-modifiers-is-already-applied-to-attribute-1.0.0-nolog.jar"
 
 [download]
-url = "https://github.com/MichailiK/serenity-assets/raw/master/dont-care-if-modifiers-is-already-applied-to-attribute-1.0.0.jar"
+url = "https://github.com/MichailiK/serenity-assets/raw/master/dont-care-if-modifiers-is-already-applied-to-attribute-1.0.0-nolog.jar"
 hash-format = "sha256"
-hash = "7405ea9f587843fff69df70e5f5d94861ebacd9e805cae1bf25464028e37f244"
+hash = "1a5d0aae482f88ba47b4f91c5c53453693df926de5989b982f7ba7a3c06a48a4"
