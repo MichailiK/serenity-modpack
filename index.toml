@@ -867,6 +867,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "4309ea8345464a9bf101163d67186ee61c732dc36d2ee74fa99f7a4e9e8a7ae8"
+metafile = true
+
+[[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "b54527211d535fcdfaf523e11fe60e2359120a95644c27f9a1913ed61eb7fa2a"
 metafile = true
