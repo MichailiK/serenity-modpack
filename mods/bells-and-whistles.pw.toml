@@ -1,0 +1,7 @@
+name = "Bells and Whistles"
+filename = "bellsandwhistles-0.4.5+1.20.1-FABRIC.jar"
+
+[download]
+url = "https://github.com/MichailiK/serenity-assets/raw/master/bellsandwhistles-0.4.5+1.20.1-FABRIC.jar"
+hash-format = "sha256"
+hash = "9071ede319e8389428773faf537fdfeea1b94f0e1efe3e6317a3a283f50546ff"

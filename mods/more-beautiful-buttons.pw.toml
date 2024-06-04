@@ -1,13 +1,7 @@
 name = "More Beautiful Buttons"
 filename = "MoreBeautifulButtons-fabric-1.20.1-1.5.0.jar"
-side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4070a1184b2166c097c7d634307ea79c881d2f16"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4628204
-project-id = 272755
+url = "https://github.com/MichailiK/serenity-assets/raw/master/MoreBeautifulButtons-fabric-1.20.1-1.5.0.jar"
+hash-format = "sha256"
+hash = "e22b4ec1197128f8097290d38f361ea9a20ce7f133a101e98aefe8f41347ff87"

@@ -1,13 +1,7 @@
 name = "Joy of Painting"
 filename = "xercapaint-fabric-1.20.1-1.0.0.jar"
-side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6d12bb429105e909541155fec93ffd0b97f15a79"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4670717
-project-id = 350727
+url = "https://github.com/MichailiK/serenity-assets/raw/master/xercapaint-fabric-1.20.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "4764859d81f457895fd3efb4303cea6b945c26dd4381c48e26429ae18b88be12"

@@ -1,13 +1,7 @@
-name = "Bedrock Breakers [Fabric | Forge]"
+name = "Bedrock Breakers"
 filename = "bedrockbreakers-1.6.jar"
-side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3be63af2015f5685c26bf658405443d9c17d078d"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5072466
-project-id = 659194
+url = "https://github.com/MichailiK/serenity-assets/raw/master/bedrockbreakers-1.6.jar"
+hash-format = "sha256"
+hash = "ee94baef8f94a29d885844bc4c46fb530b1f0a9f8d1c3832eaf02364f16a0c0b"

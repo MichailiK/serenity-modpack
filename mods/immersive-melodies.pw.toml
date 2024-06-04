@@ -1,13 +1,7 @@
-name = "Immersive Melodies [Fabric/Forge]"
+name = "Immersive Melodies"
 filename = "immersive_melodies-0.2.0+1.20.1-fabric.jar"
-side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "74705afae186f5fc4db193f3c8e9fbe5378ceaf7"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5390533
-project-id = 904471
+url = "https://github.com/MichailiK/serenity-assets/raw/master/immersive_melodies-0.2.0+1.20.1-fabric.jar"
+hash-format = "sha256"
+hash = "d24a5b46d68997a2f69f65c618ea1cec8fc99ab7bfa6db768fae9ff0fdc4ef13"

@@ -1,0 +1,7 @@
+name = "SuperMartijn642 Core Lib"
+filename = "supermartijn642corelib-1.1.17-fabric-mc1.20.1.jar"
+
+[download]
+url = "https://github.com/MichailiK/serenity-assets/raw/master/supermartijn642corelib-1.1.17-fabric-mc1.20.1.jar"
+hash-format = "sha256"
+hash = "039514a502b244365e3bb4e8eb8c3208c34af5528175001efe85588f55ad8558"

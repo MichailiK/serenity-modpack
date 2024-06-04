@@ -1,0 +1,7 @@
+name = "Nether Chested"
+filename = "NetherChested-v8.0.3-1.20.1-Fabric.jar"
+
+[download]
+url = "https://github.com/MichailiK/serenity-assets/raw/master/NetherChested-v8.0.3-1.20.1-Fabric.jar"
+hash-format = "sha256"
+hash = "2e6dff2c6598a9beec61b265c983b9f576b4446d7d6c2318f839e386d78a24f5"

@@ -1,0 +1,7 @@
+name = "Iron Chests"
+filename = "ironchests-5.0.2-fabric.jar"
+
+[download]
+url = "https://github.com/MichailiK/serenity-assets/raw/master/ironchests-5.0.2-fabric.jar"
+hash-format = "sha256"
+hash = "6a07065a3a68280e26a0fc8a3fc0d8dde10b0999432492ef6726cd583be96de6"

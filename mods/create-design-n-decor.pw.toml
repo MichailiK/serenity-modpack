@@ -1,13 +1,7 @@
-name = "Create: Design n' Decor"
+name = "Create Design n Decor"
 filename = "design_decor-0.4_fabric+1.20.1.jar"
-side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f4f51fc307de8bfad8631673e86b1c9d5070b419"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5313834
-project-id = 923238
+url = "https://github.com/MichailiK/serenity-assets/raw/master/design_decor-0.4_fabric+1.20.1.jar"
+hash-format = "sha256"
+hash = "f3647fe7c5226e48bcf2f27e1cb149da801af3fdbfc33e81c9217436c6587f5e"
