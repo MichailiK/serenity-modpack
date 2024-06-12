@@ -172,11 +172,6 @@ hash = "fc6ee313752dee876ca069d7cda60b5b6bed32121feba4ad63fb67bd6ef77694"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "9022ec899edf2af44a13d5d715b10661f394672306e3cff5b29bdd7452c783f7"
 metafile = true
