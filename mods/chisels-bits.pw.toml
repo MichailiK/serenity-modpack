@@ -1,0 +1,7 @@
+name = "Chisels & Bits"
+filename = "chisels-and-bits-fabric-1.4.148.jar"
+
+[download]
+url = "https://github.com/MichailiK/serenity-assets/raw/master/chisels-and-bits-fabric-1.4.148.jar"
+hash-format = "sha256"
+hash = "371b275ff73d610d828d6f6bd865009e2fe1649f86bb3621ff228ff6d52f7789"
