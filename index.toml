@@ -717,6 +717,11 @@ hash = "aca145c5044f2ad8829d0b1ac60f9850ee2d6e1e890ead07f59e94a721b46d55"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f55d3feb4d1609d5567258dba90fbb583e6ee827aa32aa1cd2b9281dd1a0b614"
+metafile = true
+
+[[files]]
 file = "mods/mariums-soulslike-weaponry.pw.toml"
 hash = "818fd64a2e6f5fbac4be23aeb12c63b53a544884152dc31cc492e443c3866248"
 metafile = true
