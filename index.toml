@@ -472,6 +472,16 @@ hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trims-extensions.pw.toml"
+hash = "85d7d0d6eb78d82ceffd489da4afbf05d0b38640b649cf577bff0b9c70f113e3"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "f9347289aadf66f9f6afe7784228a148af6e9fe631361e9aad6defd82f18d2f9"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
 metafile = true
@@ -774,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "1870620ac0fb128b9a6f2cb8c6f887cb2a5f42bdf4aed1851f2f4f3d542fffc3"
+metafile = true
+
+[[files]]
+file = "mods/more-armor-trims.pw.toml"
+hash = "68c771e610e9c86e53bb2e5e8da15c6081174d65284a01b836c42feecfd58142"
 metafile = true
 
 [[files]]
