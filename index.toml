@@ -592,6 +592,11 @@ hash = "83ddb016541548322b3bed6e4306ec9dadb6c751d85aa3889e705e8704614195"
 metafile = true
 
 [[files]]
+file = "mods/image2map.pw.toml"
+hash = "cf74fc839a410d76ef5468b2d0d48f1f8d6db6669651fe7694e02c305a6e1fde"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
@@ -634,6 +639,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "957fccf5d7bb580339b0ac2b8de2986415ef83fe297963e888e97d2063afefc3"
+metafile = true
+
+[[files]]
+file = "mods/invisible-frames-mod.pw.toml"
+hash = "d0946b0cbd72c71305d13f3baf0b8d4b19f658630662d7a1b88f2c19505dde31"
 metafile = true
 
 [[files]]
