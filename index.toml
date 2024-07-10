@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/fakerlib.pw.toml"
-hash = "c0a025f5c46533dc1dbd125f36e6ba6a3c761e91ace0c39e044e71afcfc7e73a"
+hash = "9f2d48ac1a0c6f4f58360a4084a3748ffac3f1963601a11f3722f0df3053a3a8"
 metafile = true
 
 [[files]]
@@ -1203,5 +1203,5 @@ metafile = true
 
 [[files]]
 file = "mods/zenith.pw.toml"
-hash = "bcd555e957b2ef17c78d0331fa1b4c7df54f797d8c4ea4399664381fd8e9a70a"
+hash = "416dc93f8bb060a4789ed2230a787079bb21564ed268b65f1141c239bf317173"
 metafile = true
